@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Hybrid Lean Plus"
+  short_description: "Review UI integration and same-session state changes"
+  default_prompt: "Use $goal-hybrid-lean-plus to carry out this request and keep an evaluation log."

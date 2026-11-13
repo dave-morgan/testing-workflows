@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Steer"
+  short_description: "Guide continuous work with an independent observer"
+  default_prompt: "Use $goal-steer to carry out this request and keep an evaluation log."

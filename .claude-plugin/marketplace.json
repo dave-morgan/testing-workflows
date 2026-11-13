@@ -1,0 +1,16 @@
+{
+  "name": "testing-workflows",
+  "owner": {
+    "name": "Dave Morgan"
+  },
+  "plugins": [
+    {
+      "name": "testing-workflows",
+      "source": "./",
+      "description": "Eight portable goal workflows for implementation, observation, steering, and independent validation."
+    }
+  ],
+  "metadata": {
+    "description": "Eight goal execution and validation workflow skills for experimentation."
+  }
+}

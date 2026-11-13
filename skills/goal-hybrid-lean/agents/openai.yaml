@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Hybrid Lean"
+  short_description: "Implement directly with focused independent reviews"
+  default_prompt: "Use $goal-hybrid-lean to carry out this request and keep an evaluation log."

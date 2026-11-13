@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Hybrid"
+  short_description: "Blend continuous work, risk gates, and steering"
+  default_prompt: "Use $goal-hybrid to carry out this request and keep an evaluation log."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Observe"
+  short_description: "Measure continuous work with a reporting observer"
+  default_prompt: "Use $goal-observe to carry out this request and keep an evaluation log."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Gated"
+  short_description: "Execute reviewed steps with independent validation"
+  default_prompt: "Use $goal-gated to carry out this request and keep an evaluation log."

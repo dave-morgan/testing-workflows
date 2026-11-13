@@ -1,0 +1,14 @@
+{
+  "name": "testing-workflows",
+  "version": "1.0.0",
+  "description": "Eight long-running goal workflows with independent review and evaluation logs.",
+  "author": { "name": "Dave Morgan" },
+  "repository": "https://github.com/dave-morgan/testing-workflows",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Testing Workflows",
+    "shortDescription": "Compare eight goal execution and validation workflows",
+    "developerName": "Dave Morgan",
+    "category": "Developer Tools"
+  }
+}

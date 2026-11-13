@@ -1,0 +1,7 @@
+{
+  "name": "testing-workflows",
+  "version": "1.0.0",
+  "description": "Eight long-running goal workflows with independent review and evaluation logs.",
+  "author": { "name": "Dave Morgan" },
+  "repository": "https://github.com/dave-morgan/testing-workflows"
+}

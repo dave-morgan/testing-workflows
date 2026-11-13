@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Adaptive"
+  short_description: "Switch execution policies when benefits beat costs"
+  default_prompt: "Use $goal-adaptive to carry out this request and keep an evaluation log."
